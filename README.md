@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed-Elloumi 
+- 👋 Hi, I’m @Ahmed-Elloumi, I work as an Oracle Apex Developer for the moement
 - 👀 I’m interested in Data Manipualtion, visualization
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
