@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ahmed-Elloumi, I work as an Oracle Apex Developer for the moement
-- 👀 I’m interested in Data Manipualtion, visualization
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Ahmed-Elloumi, I work as an PL-SQL / Oracle Apex Developer for the moement.
+- 👀 I've been working with data since 2018, manipualting and visualizing it locally.
+- 🌱 I’m currently learning Python and Tableau by doing some portfolio projects i found online.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/ahmed-elloumi-000aa8168/
 
